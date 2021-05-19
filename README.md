@@ -1,10 +1,10 @@
 # ChemVAEWrapper
-#wrapper module to use chemical VAEs
+# wrapper module to use chemical VAEs
 
 # requirements
 - pip install dgllife==0.2.6
 - conda install -c dglteam dgl
 - pip install torch
 
-#install
+# install
 - pip install git+https://github.com/KanHatakeyama/chemvaewrapper.git
